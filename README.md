@@ -2,4 +2,6 @@
 
 - Day 1: Learned variables, typecasting, user input, arithmetic and math functions, if and else statements, and completed 5 exercises reviewing over those topics
 
-- Day 2: TBD
+- Day 2: Learned conditional expressions, format specifiers, logical operators, string indexing, string methods, and completed 4 exercises reviewing over those topics
+
+- Day 3: TBD
