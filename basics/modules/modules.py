@@ -15,7 +15,7 @@ a, b, c, d, e = 1, 2, 3, 4, 5
 # print(math.e ** d)
 # print(math.e ** e)
 
-import exampleModule
+import basics.modules.exampleModule as exampleModule
 
 result1 = exampleModule.pi
 result2 = exampleModule.square(3)
