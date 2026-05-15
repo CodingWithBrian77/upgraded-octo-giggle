@@ -1,7 +1,7 @@
 # default arguments = a default value for certain parameters
 #                     default is used when that argument is omitted
 #                     make your functions more flexible, reduces # of arguments
-#                     1. position, 2. DEFAULT, 3. keyword, 4. arbitrary
+#                     1. positional, 2. DEFAULT, 3. keyword, 4. arbitrary
 
 def net_price(list_price, discount=0, tax=0.05): # sets discount and tax with a default value, but in the invoking call, the arguments from there will change the discount or tax if given
     return list_price * (1-discount) * (1 + tax)
