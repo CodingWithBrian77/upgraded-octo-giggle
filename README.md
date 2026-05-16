@@ -9,3 +9,5 @@
 - Day 4: Learned dictionaries, random module, functions, and completed 4 exercises reviewing over these topics. 
 
 - Day 5: Learned default arguments, keyword arguments, args & **kwargs, iterables, membership operators, list comprehensions, match-case statements, and modules. No exercises were done reviewing over these topics.
+
+- Day 6: Learned varaible scopes, if __name__ == '__main__': statements, and completed 2 exercises reviewing over these topics.
