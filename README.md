@@ -7,3 +7,5 @@
 - Day 3: Learned while loops, for loops, nested loops, collections and 2D collections, and completed 5 exercises reviewing over those topics.
 
 - Day 4: Learned dictionaries, random module, functions, and completed 4 exercises reviewing over these topics. 
+
+- Day 5: Learned default arguments, keyword arguments, args & **kwargs, iterables, membership operators, list comprehensions, match-case statements, and modules. No exercises were done reviewing over these topics.
