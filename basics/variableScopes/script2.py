@@ -1,4 +1,4 @@
-from script1 import *
+from basics.variableScopes.script1 import *
 
 def favorite_drink(drink):
     print(f"Your favorite drink is {drink}")
