@@ -1,5 +1,7 @@
 ### Week 1
 
+### Summary: I learned basic fundamentals that give me the abiltiy to solve basic python problems, as well as the ability to create simple programs with expandability.
+
 - Day 1: Learned variables, typecasting, user input, arithmetic and math functions, if and else statements, and completed 5 exercises reviewing over those topics
 
 - Day 2: Learned conditional expressions, format specifiers, logical operators, string indexing, string methods, and completed 4 exercises reviewing over those topics
@@ -11,3 +13,5 @@
 - Day 5: Learned default arguments, keyword arguments, args & **kwargs, iterables, membership operators, list comprehensions, match-case statements, and modules. No exercises were done reviewing over these topics.
 
 - Day 6: Learned varaible scopes, if dunder name == 'dunder main': statements, and completed 2 exercises reviewing over these topics.
+
+- Day 7: Wrapped up Python basics folder with finished 2 exercises. Started OOP topics by learning about objects, classes, and class variables.
