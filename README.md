@@ -1,3 +1,9 @@
+### Week 2
+
+- Day 1: Learned inheritance, multiple inheritance, multilevel inheritance, super(), polymorphism, duck typing, static methods, class methods, and magic methods. No exercises were done reviewing over these topics.
+
+
+
 ### Week 1
 
 ### Summary: I learned basic fundamentals that give me the abiltiy to solve basic python problems, as well as the ability to create simple programs with expandability.
