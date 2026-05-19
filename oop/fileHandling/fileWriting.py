@@ -23,8 +23,8 @@ file_path3 = "oop/fileHandling/output.csv"
 # -- WRITING TXT FILES -- #
 try:
     with open(file=file_path1, mode= "w") as file:
-        for employee in employees:
-            file.write(employee + "\n")
+        for employee1 in employees1:
+            file.write(employee1 + "\n")
         print(f"txt file '{file_path1}' was created")
 except FileExistsError:
     print("That file already exists!")
