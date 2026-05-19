@@ -2,7 +2,7 @@
 
 import os # imports operating system module
 
-file_path = "oop/oopIntro/fileHandling" # relative file path
+file_path = "oop/fileHandling" # relative file path
 
 if os.path.exists(file_path):
     print(f"The location '{file_path}' exists")
