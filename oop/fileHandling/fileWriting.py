@@ -21,21 +21,21 @@ file_path2 = "oop/fileHandling/output.json"
 file_path3 = "oop/fileHandling/output.csv"
 
 # -- WRITING TXT FILES -- #
-# try:
-    # with open(file=file_path1, mode= "w") as file:
-        # for employee in employees:
-            # file.write(employee + "\n")
-        # print(f"txt file '{file_path1}' was created")
-# except FileExistsError:
-    # print("That file already exists!")
+try:
+    with open(file=file_path1, mode= "w") as file:
+        for employee in employees:
+            file.write(employee + "\n")
+        print(f"txt file '{file_path1}' was created")
+except FileExistsError:
+    print("That file already exists!")
 
 # -- WRITING JSON FILES -- #
-# try:
-    # with open(file_path2, "w") as file:
-        # json.dump(employee, file, indent=4)
-        # print(f"json file '{file_path2}' was created")
-# except FileExistsError:
-    # print("That file already exists")
+try:
+    with open(file_path2, "w") as file:
+        json.dump(employee, file, indent=4)
+        print(f"json file '{file_path2}' was created")
+except FileExistsError:
+    print("That file already exists")
 
 # -- WRITING CSV FILES -- #
 try:
