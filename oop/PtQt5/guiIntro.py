@@ -8,7 +8,7 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.setWindowTitle("My cool first GUI")
         self.setGeometry(400, 150, 500, 500)
-        self.setWindowIcon(QIcon("oop/gui/220984061.png"))
+        self.setWindowIcon(QIcon("oop/PtQt5/220984061.png"))
 
 def main():
     app = QApplication(sys.argv) # allows PyQt to process any command line arguments intended for it
