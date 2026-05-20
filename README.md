@@ -4,6 +4,8 @@
 
 - Day 2: Learned property decorator, getter/setter/deleter decorators, exception handling, dates and time module, file detection/writing/reading with i/o files and completed 1 exercise reviewing over the dates and time module.
 
+- Day 3: Learned multithreading, requesting APIs, PtQt5 modules surrounding Windows, Applications, Icons, Guis, Labels, Pixmap, Font, Core, Qt, Widgets, VBoxLayout, HBoxLayout, and GridLayout, as well as PushButtons.
+
 
 ### Week 1
 
