@@ -2,6 +2,7 @@
 
 - Day 1: Learned inheritance, multiple inheritance, multilevel inheritance, super(), polymorphism, duck typing, static methods, class methods, and magic methods. No exercises were done reviewing over these topics.
 
+- Day 2: Learned property decorator, getter/setter/deleter decorators, exception handling, dates and time module, file detection/writing/reading with i/o files and completed 1 exercise reviewing over the dates and time module.
 
 
 ### Week 1
